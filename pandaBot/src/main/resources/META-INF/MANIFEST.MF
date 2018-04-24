@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Class-Path: grizzly-http-2.3.28.jar javax.inject-2.5.0-b32.jar jackson
+ -jaxrs-json-provider-2.8.7.jar jackson-jaxrs-base-2.8.7.jar guice-4.1
+ .0.jar javax.ws.rs-api-2.0.1.jar jersey-media-json-jackson-2.25.1.jar
+  javax.annotation-api-1.2.jar jackson-module-jaxb-annotations-2.8.7.j
+ ar json-20160810.jar commons-logging-1.2.jar httpcore-4.4.6.jar hk2-l
+ ocator-2.5.0-b32.jar aopalliance-repackaged-2.5.0-b32.jar jersey-medi
+ a-jaxb-2.25.1.jar commons-io-2.5.jar hk2-utils-2.5.0-b32.jar jersey-c
+ ommon-2.25.1.jar jackson-annotations-2.8.0.jar javassist-3.20.0-GA.ja
+ r validation-api-1.1.0.Final.jar grizzly-http-server-2.3.28.jar jerse
+ y-server-2.25.1.jar jersey-container-grizzly2-http-2.25.1.jar grizzly
+ -framework-2.3.28.jar commons-codec-1.9.jar hk2-api-2.5.0-b32.jar jer
+ sey-guava-2.25.1.jar jersey-entity-filtering-2.25.1.jar aopalliance-1
+ .0.jar javax.inject-1.jar gson-2.8.2.jar telegrambots-3.6.jar jackson
+ -databind-2.8.7.jar httpclient-4.5.3.jar osgi-resource-locator-1.0.1.
+ jar jersey-client-2.25.1.jar telegrambots-meta-3.6.jar jackson-core-2
+ .8.7.jar guava-19.0.jar httpmime-4.5.3.jar
+Main-Class: Main
+
